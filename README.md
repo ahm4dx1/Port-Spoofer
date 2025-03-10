@@ -1,7 +1,7 @@
 
 # 🚀 Port-Spoofer
 
-**P_Spoofer** is a lightweight **network service spoofing tool** that allows you to emulate various services (SSH, HTTP, FTP, etc.) on different ports. It can be useful for **honeypots, penetration testing, or security research**.
+**P_Spoofer** is a lightweight **network service spoofing tool** that allows you to emulate various services  on different ports. It can be useful for **honeypots, penetration testing, or security research**.
 
 ---
 
@@ -67,8 +67,7 @@ Pull requests are welcome! Feel free to improve the script or add new service sp
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
